@@ -1,5 +1,5 @@
 # PyTorchTutorial
-PyTorchTutorial
+PyTorchTutorial 1.8 翻译小组	 http://pytorch123.com 
 
 
 教程网址
