@@ -23,7 +23,7 @@ https://guides.github.com/features/mastering-markdown/
 
 
 * Image and Video
-
+译者：jin_330
 
 * Audio
 
